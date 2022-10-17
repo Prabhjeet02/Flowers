@@ -46,6 +46,6 @@ like name, color, price and some others that yoy can see in my project.  ;-)
 
 1133..: did not have most time to do css change..
 
-1135.. added script to layout then able to change color to light green.. 
+1135.. added style to layout then able to change color to light green.. 
 
 :-((( huge headache  
