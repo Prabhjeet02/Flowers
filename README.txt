@@ -28,12 +28,24 @@ and here i was felling regret :-((((...shittt.
 
 1130.. i did Add-Migration InitialCreate2 and updated the Update-Database.
 
-1140.. started working with database and stared the seed data.   ;-)
+1140.. started working with database and stared the seed data. Before seeding the data searched about the attributes that i can use
+like name, color, price and some others that yoy can see in my project.  ;-)
 
 1201.. successfully seeded the data.   :-)hurrryyy
 
 1203... run the application and its working
 
-1240.. for rating added input type range for 1 to 5 scale.
+17oct
+0902.. for rating added input type range for 1 to 5 scale.
 
-1250.. added img folder to github a
+1055.. added img folder to github but unable to pull or push the changes
+
+:-((((((   got stuck with github.. feeling that it not so usefull.. any way  going to change css.
+
+:-((( did not able to change the color , tried every method..
+
+1133..: did not have most time to do css change..
+
+1135.. added script to layout then able to change color to light green.. 
+
+:-((( huge headache  
