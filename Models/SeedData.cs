@@ -30,7 +30,7 @@ namespace Flowers.Models
                         Color = "Red",
                         Price = 7.99M,
                         Quantity = 2,
-                        CustomerReview = "C"
+                        CustomerReview = "4"
                     },
                     new Flower
                     {
@@ -39,7 +39,7 @@ namespace Flowers.Models
                         Color = "Yellow",
                         Price = 5.00M,
                         Quantity = 5,
-                        CustomerReview = "C"
+                        CustomerReview = "3"
                     }, 
                     new Flower
                     {
@@ -48,7 +48,7 @@ namespace Flowers.Models
                         Color = "White",
                         Price = 8.99M,
                         Quantity = 20,
-                        CustomerReview = "C"
+                        CustomerReview = "4"
                     },
                     new Flower
                     {
@@ -57,7 +57,7 @@ namespace Flowers.Models
                         Color = "Pink",
                         Price = 5.44M,
                         Quantity = 10,
-                        CustomerReview = "C"
+                        CustomerReview = "5"
                     },
                     new Flower
                     {
@@ -66,7 +66,7 @@ namespace Flowers.Models
                         Color = "White",
                         Price = 10.77M,
                         Quantity = 8,
-                        CustomerReview = "C"
+                        CustomerReview = "5"
                     },
                     new Flower
                     {
@@ -75,7 +75,7 @@ namespace Flowers.Models
                         Color = "Red",
                         Price = 6.77M,
                         Quantity = 15,
-                        CustomerReview = "C"
+                        CustomerReview = "3"
                     },
                     new Flower
                     {
@@ -84,7 +84,7 @@ namespace Flowers.Models
                         Color = "Blue",
                         Price = 4.55M,
                         Quantity = 14,
-                        CustomerReview = "C"
+                        CustomerReview = "4"
                     },
                     new Flower
                     {
@@ -93,7 +93,7 @@ namespace Flowers.Models
                         Color = "Black",
                         Price = 9.99M,
                         Quantity = 8,
-                        CustomerReview = "C"
+                        CustomerReview = "4"
                     },
                     new Flower
                     {
@@ -102,7 +102,7 @@ namespace Flowers.Models
                         Color = "Red",
                         Price = 7.99M,
                         Quantity = 8,
-                        CustomerReview = "C"
+                        CustomerReview = "3"
                     }, 
                     new Flower
                     {
@@ -111,7 +111,7 @@ namespace Flowers.Models
                         Color = "Blue",
                         Price = 4.99M,
                         Quantity = 9,
-                        CustomerReview = "C"
+                        CustomerReview = "2"
                     }
 
                 );

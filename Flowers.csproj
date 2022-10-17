@@ -7,6 +7,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="wwwroot\img\**" />
+    <Content Remove="wwwroot\img\**" />
+    <EmbeddedResource Remove="wwwroot\img\**" />
+    <None Remove="wwwroot\img\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Compile Remove="Migrations\20221013171611_CustomerReview.cs" />
     <Compile Remove="Migrations\20221013171611_CustomerReview.Designer.cs" />
     <Compile Remove="Models\Flowers.cs" />

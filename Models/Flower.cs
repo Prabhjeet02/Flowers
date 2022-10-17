@@ -23,6 +23,7 @@ namespace Flowers.Models // was showing warning because i have not stop the proj
         [DataType(DataType.Currency)]
         public decimal Price { get; set; }
         public int Quantity { get; set; } // did spelling mistake after correcting that i had to again add migration and update database which creates the new initial create 2
+
         [Display(Name = "Customer Review")]
         public string CustomerReview { get; set; }
     }

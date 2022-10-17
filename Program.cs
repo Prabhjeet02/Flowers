@@ -26,7 +26,7 @@ namespace Flowers
                     webBuilder.UseStartup<Startup>();
                 });
     }*/
-    public class Program  //pasted from the tutorial
+    public class Program  //written from the tutorial
     {
         public static void Main(string[] args)
         {
