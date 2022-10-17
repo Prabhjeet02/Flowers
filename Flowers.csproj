@@ -7,6 +7,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Migrations\20221013171611_CustomerReview.cs" />
+    <Compile Remove="Migrations\20221013171611_CustomerReview.Designer.cs" />
     <Compile Remove="Models\Flowers.cs" />
     <Compile Remove="Models\ProductFlowers.cs" />
   </ItemGroup>
