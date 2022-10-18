@@ -87,14 +87,22 @@ html {
 }
 a.nav-link {
     background-color: #e7b5f5;
+    font-style:oblique;
 }
 a.navbar-brand {
     background-color: #ba47b1;
+   font-style:unset;
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 table.table {
-    background-color: #ba47b1;
+    background-color: #f7b874;
+    font-family:'Times New Roman', Times, serif;
 }
 
-header {
+header.headerr {
     background-color: #e3db46;
+}
+h1,h2,h3,p {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style:oblique;
 }

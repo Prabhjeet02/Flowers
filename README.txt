@@ -36,7 +36,7 @@ like name, color, price and some others that yoy can see in my project.  ;-)
 1203... run the application and its working
 
 17oct
-0902.. for rating added input type range for 1 to 5 scale.
+0902.. for rating added input type range for minimum 1 to maximum 5 scale.
 
 1055.. added img folder to github but unable to pull or push the changes
 
@@ -48,4 +48,18 @@ like name, color, price and some others that yoy can see in my project.  ;-)
 
 1135.. added style to layout then able to change color to light green.. 
 
-:-((( huge headache  
+:-((( huge headache 
+
+1930.. changed the colors by using class of every tag. ;)
+1940.. changed fonts for project.
+
+2022.. solved the github thing by merging the push and pull.
+but still was not able to get pictures on solution which i uploaded on github. 
+i was actually pulled but was in project folder not in solution folder so i make new folder and added the images to folder 
+which actually worked.
+the github was stoping my all the push which later got pushed when i solved it.
+
+2037.. assignment is completed ..   hhhfffffff 
+     
+        
+              end of README 
